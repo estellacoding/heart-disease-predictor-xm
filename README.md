@@ -17,4 +17,4 @@
 $\text{Accuracy} = \frac{TP + TN}{TP + FP + TN + FN}$
 
 ## 提交分數
-最後使用最佳模型**XGBoost**提交至Kaggle，提交分數為 **0.92016**。
+最後使用最佳模型(XGBoost)提交至Kaggle，提交分數為 **0.92016**。
